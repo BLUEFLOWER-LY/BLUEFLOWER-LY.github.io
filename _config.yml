@@ -1,11 +1,11 @@
-name: 
-author: 
+name: AG
+author: AG
 url: 
 baseurl: 
 resume_site: 
-description: 
-github_username: 
-github: 
+description: AG的博客
+github_username: BLUEFOLER-LY
+github:
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
